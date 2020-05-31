@@ -1,0 +1,335 @@
+body
+{
+    background-color: cornflowerblue;
+           line-height:1.6;
+    color: white;
+    font-family:sans-serif;
+    font-weight: bold
+    font-size:
+
+}
+h
+{
+    font-size: 30px
+}
+fieldset
+{
+    background-color: white;
+    height: 790px;
+    width: 250px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+        color: black;
+
+}
+fieldset img
+{
+    margin-top: 20px
+}
+fieldset h1
+{
+    font-size:20px
+}
+
+fieldset >p
+{
+    margin-top: 2px
+}
+fieldset >div
+{
+    margin-top: 10px
+}
+fieldset .footer img
+{
+    width: 20px;
+    height: 20px
+        
+}
+fieldset .footer ul
+{
+   list-style: none;
+        margin-right: 40px;
+            padding-top: 40px;
+    color: black;
+
+
+}
+fieldset .footer ul li
+{
+        display:inline;
+margin-top: 20px;
+     color: black;
+
+}
+span
+{
+    padding-top: 20px
+            color: black;
+
+}
+.continer1
+
+{
+overflow: hidden;
+ color:white;
+
+
+}
+
+ .continer1 img
+{
+    width: 1000px;
+    height: 300px;
+    margin-right: 20px;
+      margin-left: 30px;
+
+        
+        
+}
+.continer1 hr
+{
+    width: 280px;
+    margin: 0 0 px;
+   margin-left: 30px;
+
+}
+
+.continer1 h2,
+.continer2 h3
+
+{
+    font-size: 30px;
+      margin-left: 30px;
+
+        
+}
+.continer1 p,
+.continer2 p
+
+{
+          margin-left: 30px;
+       line-height:1.6
+}
+
+.continer2
+{
+   margin-left:90px;
+
+    color: white;
+    overflow: hidden;
+}
+.continer2 img
+{
+    width: 290px;
+    height: 230px;
+    margin: 3px
+        
+    
+}
+.continer2 .web
+{
+    width: 60%;
+    float: left
+
+        
+}
+
+.continer2 .web3
+{
+    width: 35%;
+    float:right
+
+}
+.continer2 .web3
+{
+    padding-top: 50px;
+        
+}
+
+
+.continer2 h3
+{
+    margin-top: 10px
+}
+
+.continer2 p
+{
+    margin-top: 5px
+}
+ button
+{
+    margin-left:30px;
+    color: cornflowerblue;
+    height: 30px;
+    text-align: center;
+        
+}
+
+
+
+.boz
+{
+    margin-left:320px;
+    margin-top: 40px
+    
+}
+
+.boz .box11
+{
+    width:30%;
+    float: left;
+}
+.boz .box11 img
+{
+    height: 330px;
+    width: 300px
+}
+.boz .box22
+{
+   width:70%;
+    overflow: hidden;
+
+       
+}
+.boz .box22 p
+{
+           margin-left:20px;
+          margin-right: 60px
+               
+               
+ 
+}
+.boz .box22 h
+{
+   margin-left:20px;
+ 
+}
+
+
+
+
+.boz hr
+{
+    margin-bottom: 20px
+}
+
+.note
+{
+  
+    margin-left:320px;
+    margin-top: 80px;
+        overflow: hidden;
+    margin-right: 30px
+}
+  .note .basic
+{
+    margin-top: 30px
+}
+.note .basic .note3
+{
+       width: 40%;
+    float: left;
+    
+         
+      
+}
+
+.note .basic .note2
+{
+    float: right;
+    width: 50%
+}
+
+
+
+
+
+
+
+
+
+.gallary
+
+{
+    margin-left:320px;
+    margin-top: 40px;
+        margin-right:40px
+
+    
+}
+
+.gallary img
+{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+     padding: 10px;
+    border: 1px sold #ccc;
+    box-shadow: 10px 10px 10px #ccc
+}
+
+
+.form
+
+
+{
+    margin-left:320px;
+    margin-top: 70px;
+        margin-right:40px;
+    color: white;
+
+    
+}
+
+.form .ekram input
+{
+width: 340px;
+    height: 25px;
+    background-color:cornflowerblue; 
+    border-color: aliceblue;
+        color: white;
+
+}
+
+.form .aya input
+{
+    width: 680px;
+
+        height: 25px;
+        border-color: aliceblue;
+        background-color:cornflowerblue; 
+    color: white;
+
+
+
+}
+textarea
+{
+width:690px;
+    height: 150px;
+      border-color: aliceblue;
+        background-color:cornflowerblue; 
+    color: white;
+
+    
+
+}
+
+
+.form .esraa
+{
+margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 40px
+}
+.form .esraa input
+{
+    border-color: aliceblue;
+        background-color:white; 
+    color:cornflowerblue;
+    height:30px;
+    width: 100px
+
+    
+}
